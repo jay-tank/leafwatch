@@ -1,0 +1,14 @@
+# Local-only metadata — never pushed
+DETAILS.md
+
+# Go build output
+/leafwatch
+*.exe
+*.test
+*.out
+
+# Env / editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
